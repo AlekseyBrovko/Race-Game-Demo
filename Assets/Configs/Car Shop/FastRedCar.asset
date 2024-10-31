@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3240f9c5a7f20d4c855679823bbd530, type: 3}
+  m_Name: FastRedCar
+  m_EditorClassIdentifier: 
+  Id: Fast Red Car
+  Name: Fast Red Car
+  Price: 0
+  CarPrefab: {fileID: 6464729455486568537, guid: ea8864c7bb743e84483295891d21652b,
+    type: 3}
+  CarPreview: {fileID: 21300000, guid: 2bf899f6a1d9db344b375bfbd6362079, type: 3}

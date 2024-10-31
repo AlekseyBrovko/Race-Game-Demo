@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: c682a4371a077ff4b99cbe85bf749874
+  m_Entries:
+  - m_Id: 20396683264
+    m_Key: nextButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142820028416
+    m_Key: prevButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3676504371200
+    m_Key: settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3835091005440
+    m_Key: quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3927814483968
+    m_Key: mainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4104105275392
+    m_Key: continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6134962106368
+    m_Key: resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6244680904704
+    m_Key: backToGarage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6423186288640
+    m_Key: sounds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6496678883328
+    m_Key: masterVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6749138235392
+    m_Key: music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6847591133184
+    m_Key: back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7419291545600
+    m_Key: pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7521615785984
+    m_Key: maxSpeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7561772052480
+    m_Key: motorPower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7600804245504
+    m_Key: hp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7627765231616
+    m_Key: fuel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7675869704192
+    m_Key: start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38617879457792
+    m_Key: play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38810830024704
+    m_Key: garage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49988151062528
+    m_Key: vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50430713049088
+    m_Key: buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71574816075776
+    m_Key: fullCarUpgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323365470253056
+    m_Key: playStory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323458416029696
+    m_Key: freeRide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 328809840422912
+    m_Key: language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7562543043174400
+    m_Key: missionComplete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7569295633539072
+    m_Key: reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7570788096925696
+    m_Key: doubleReward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9448345999028224
+    m_Key: menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9459492181553152
+    m_Key: yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9459554731208704
+    m_Key: no
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9460200549167104
+    m_Key: quitMessage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9852347525935104
+    m_Key: playVideo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9852814217752576
+    m_Key: outOfFuel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9852936393633792
+    m_Key: outOfHealth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10938943146393600
+    m_Key: loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13018006493167616
+    m_Key: skipTutorial
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8168871692271878168
+  references:
+    version: 2
+    RefIds:
+    - rid: 8168871692271878168
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1727258570462

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62d8574448b311b41a67612311f26f88, type: 3}
+  m_Name: SoundsConfig
+  m_EditorClassIdentifier: 
+  AudioBehaviourPrefab: {fileID: 8722184260521919588, guid: 40363449ca0691548974e4be0a927696,
+    type: 3}
+  LoseSound: {fileID: 0}
+  WinSound: {fileID: 0}
+  ClickSound: {fileID: 8300000, guid: 486959432e166034b912662751db4a3c, type: 3}
+  BuySound: {fileID: 8300000, guid: 0f604657e03cdfd439b6b6988cacf365, type: 3}
+  FailClickSound: {fileID: 8300000, guid: 53513681a3ef123458387cd1981e46fe, type: 3}
+  SimpleMotorSound: {fileID: 8300000, guid: f1c0e1fda94016944ac8b2eeb5f07de8, type: 3}
+  AsphaltSlipSound: {fileID: 8300000, guid: 78b2afec6e3a40d4eaa043daccfc44a5, type: 3}
+  AsphaltSlipSounds:
+  - {fileID: 8300000, guid: 4d5475be061527f4f980057e55667b92, type: 3}
+  - {fileID: 8300000, guid: 922541bc58426a847a2ccdf214d1c83a, type: 3}
+  - {fileID: 8300000, guid: 79dd343eb7e4c694c95edbe7218bee08, type: 3}
+  - {fileID: 8300000, guid: a08ba08a6139a584f87d6c7da799e549, type: 3}
+  - {fileID: 8300000, guid: 4f971b52ee36fce4b8fff68bbc64a87e, type: 3}
+  ZombieHurtSounds: []
+  HitImpactSounds:
+  - {fileID: 8300000, guid: 9b1951864e55042419d36626fbf984c9, type: 3}
+  - {fileID: 8300000, guid: f3a27f675d71c448c937b8c1552fbf7f, type: 3}
+  - {fileID: 8300000, guid: 15db56fb478b54ba584e54368f943195, type: 3}
+  - {fileID: 8300000, guid: 9eaf9ecc10af54992a32818ffc712ce1, type: 3}
+  MetalImpactSounds:
+  - {fileID: 8300000, guid: 776cd4f8692904fb9a8025307bb7a143, type: 3}
+  - {fileID: 8300000, guid: f1c17fae8fba34743ae23e281e8444a8, type: 3}
+  - {fileID: 8300000, guid: 6fc43498e12c24766ba73ed579e07532, type: 3}
+  - {fileID: 8300000, guid: bffb37355edb34293ae4fae16a83aad2, type: 3}
+  - {fileID: 8300000, guid: 145daa7480ed34590adc3033598a580a, type: 3}
+  GroundImpactSounds:
+  - {fileID: 8300000, guid: 0ace91b342f75844d89e9d80704d9894, type: 3}
+  - {fileID: 8300000, guid: 69313e5c463380348aa6f4a6efe2162d, type: 3}
+  - {fileID: 8300000, guid: 20013a5a1ef674947b9ac8ec70d60fbe, type: 3}
+  - {fileID: 8300000, guid: 88bd7fb20da8be14984b599da298d614, type: 3}
+  - {fileID: 8300000, guid: 655b70901099a4643bc0c12d59f404bc, type: 3}
+  FlashImpactSounds:
+  - {fileID: 8300000, guid: 06960aa47769149ac85f6a6da5e76b70, type: 3}
+  - {fileID: 8300000, guid: 9349e6cc15a644a72bb760a4707fac83, type: 3}
+  - {fileID: 8300000, guid: 0242283d3fc9c493e9551bca1c76a709, type: 3}
+  - {fileID: 8300000, guid: 2b872f86cad0449deb4122dae8794f0b, type: 3}
+  - {fileID: 8300000, guid: 3dc23ee396afe4216a0c9003a960ab6c, type: 3}
+  ZombieDeathSound: []

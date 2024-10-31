@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3240f9c5a7f20d4c855679823bbd530, type: 3}
+  m_Name: 2 ClassicCar
+  m_EditorClassIdentifier: 
+  Id: ClassicCar
+  Name: Classic Car
+  Price: 100
+  CarPrefab: {fileID: 5712113461022742985, guid: dd0604da6293a3c49ae43d50d6c0144d,
+    type: 3}
+  MaxSpeedLevels:
+  - Value: 80
+    Price: 0
+  - Value: 90
+    Price: 100
+  - Value: 100
+    Price: 110
+  - Value: 110
+    Price: 120
+  - Value: 120
+    Price: 130
+  - Value: 130
+    Price: 140
+  HorcePowerLevels:
+  - Value: 110
+    Price: 0
+  - Value: 130
+    Price: 100
+  - Value: 150
+    Price: 110
+  - Value: 170
+    Price: 120
+  - Value: 190
+    Price: 130
+  - Value: 210
+    Price: 140
+  HpLevels:
+  - Value: 100
+    Price: 0
+  - Value: 110
+    Price: 100
+  - Value: 120
+    Price: 110
+  - Value: 130
+    Price: 120
+  - Value: 140
+    Price: 130
+  - Value: 150
+    Price: 140
+  FuelLevels:
+  - Value: 120
+    Price: 0
+  - Value: 140
+    Price: 100
+  - Value: 160
+    Price: 110
+  - Value: 180
+    Price: 120
+  - Value: 200
+    Price: 130
+  - Value: 220
+    Price: 140

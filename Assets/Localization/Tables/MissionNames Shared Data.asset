@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MissionNames Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MissionNames
+  m_TableCollectionNameGuidString: bb2ed3037cf0ff342ab4907039b8f7a8
+  m_Entries:
+  - m_Id: 919712258895872
+    m_Key: exploreFarm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 934403236474880
+    m_Key: collectSupplies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 935636970024960
+    m_Key: cleanFarms
+    m_Metadata:
+      m_Items: []
+  - m_Id: 939314829373440
+    m_Key: zombiesForest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 950204723146752
+    m_Key: cleanFarmHotel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 951911905538048
+    m_Key: saveFromFarmToCamp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 972212307537920
+    m_Key: cleanHospital
+    m_Metadata:
+      m_Items: []
+  - m_Id: 980110991470592
+    m_Key: cleanCentralPark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 982387714207744
+    m_Key: cleanSuburban
+    m_Metadata:
+      m_Items: []
+  - m_Id: 984227113644032
+    m_Key: takeMeToChurch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1290479274340352
+    m_Key: killTopMission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1295258054602752
+    m_Key: clearTwoZonesTopMission
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4330068686192246791
+  references:
+    version: 2
+    RefIds:
+    - rid: 4330068686192246791
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1729877627949

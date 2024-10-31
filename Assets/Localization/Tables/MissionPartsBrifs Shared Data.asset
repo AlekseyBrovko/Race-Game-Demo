@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MissionPartsBrifs Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MissionPartsBrifs
+  m_TableCollectionNameGuidString: 70a40935ef231c84b9d4896a132a6138
+  m_Entries:
+  - m_Id: 916850858569728
+    m_Key: exploreFarm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 934295707103232
+    m_Key: collectSupplies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 937631307051008
+    m_Key: cleanBigRanch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 937816091308032
+    m_Key: clearRanchAcrossStreet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 938097508134912
+    m_Key: cleanNeighboringRanch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 939241026400256
+    m_Key: zombiesForest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 949572654116864
+    m_Key: cleanFarmHotel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 951588780552192
+    m_Key: saveFromFarmToCamp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 971853942009856
+    m_Key: cleanHospital
+    m_Metadata:
+      m_Items: []
+  - m_Id: 979842031726592
+    m_Key: cleanCentralPark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981825518088192
+    m_Key: cleanSuburban
+    m_Metadata:
+      m_Items: []
+  - m_Id: 983791749083136
+    m_Key: takeMeToChurch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1289792217985024
+    m_Key: killTopMission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1291264863285248
+    m_Key: cleanIsland
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1294141254053888
+    m_Key: cleanCentralPar
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4330068686192246793
+  references:
+    version: 2
+    RefIds:
+    - rid: 4330068686192246793
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1729877719910

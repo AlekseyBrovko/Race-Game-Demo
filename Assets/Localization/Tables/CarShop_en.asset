@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CarShop_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: acff828afd08a534f9340342a1736987, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 388131815424
+    m_Localized: Small Truck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 400475652096
+    m_Localized: Old Car
+    m_Metadata:
+      m_Items: []
+  - m_Id: 444926885888
+    m_Localized: Big Pickup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 474597392384
+    m_Localized: Fast Buggy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 494696497152
+    m_Localized: Small Buggy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 513126268928
+    m_Localized: Firetruck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 533489614848
+    m_Localized: Muscle Car
+    m_Metadata:
+      m_Items: []
+  - m_Id: 559389442048
+    m_Localized: Offroader
+    m_Metadata:
+      m_Items: []
+  - m_Id: 566905634816
+    m_Localized: Hotrod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610421538816
+    m_Localized: Monster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1949218209792
+    m_Localized: Schoolbus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1664782490710016
+    m_Localized: Sherif
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c682a4371a077ff4b99cbe85bf749874, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20396683264
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142820028416
+    m_Localized: Previous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3676504371200
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3835091005440
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3927814483968
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4104105275392
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6134962106368
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6244680904704
+    m_Localized: Back To Garage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6423186288640
+    m_Localized: Sounds Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6496678883328
+    m_Localized: Master Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6749138235392
+    m_Localized: Music Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6847591133184
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7419291545600
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7675869704192
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7627765231616
+    m_Localized: Fuel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7600804245504
+    m_Localized: Hp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7561772052480
+    m_Localized: Motor Power
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7521615785984
+    m_Localized: Max Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38617879457792
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38810830024704
+    m_Localized: Garage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49988151062528
+    m_Localized: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50430713049088
+    m_Localized: Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71574816075776
+    m_Localized: Full
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323365470253056
+    m_Localized: Play Story
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323458416029696
+    m_Localized: Free Riding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 328809840422912
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7562543043174400
+    m_Localized: Mission Complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7569295633539072
+    m_Localized: Reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7570788096925696
+    m_Localized: Double Reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9448345999028224
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9459492181553152
+    m_Localized: yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9459554731208704
+    m_Localized: no
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9460200549167104
+    m_Localized: Do you want to quit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9852347525935104
+    m_Localized: Play Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9852814217752576
+    m_Localized: Fuel is Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9852936393633792
+    m_Localized: Health is Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10938943146393600
+    m_Localized: Loading...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13018006493167616
+    m_Localized: Skip Tutorial
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

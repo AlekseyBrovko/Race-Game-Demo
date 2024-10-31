@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c2770dfb9f40a242a0256e11b3e4d07, type: 3}
+  m_Name: UIPanelConfig
+  m_EditorClassIdentifier: 
+  Panels:
+  - PanelId: MainMenuPanel
+    PanelPrefab: {fileID: 2606078995005872428, guid: 933aa5e38c160f54d83ccae4c5d54ae5,
+      type: 3}
+  - PanelId: SettingsPanel
+    PanelPrefab: {fileID: 2964452059993607585, guid: f112f35d06a8892408780e50e62ab8b5,
+      type: 3}
+  - PanelId: PausePanel
+    PanelPrefab: {fileID: 2606078995005872428, guid: ca7fdd6db3decd546822202a5fa00f4c,
+      type: 3}
+  - PanelId: ExitPopupPanel
+    PanelPrefab: {fileID: 4348978154896816942, guid: b20816caa48ff6445a9786a8b5d3c7b5,
+      type: 3}
+  - PanelId: InGamePanel
+    PanelPrefab: {fileID: 2606078995005872428, guid: 24f8de8294c81db47965131294d8b87e,
+      type: 3}
+  - PanelId: AndroidInputPanel
+    PanelPrefab: {fileID: 3260018691505724301, guid: 8664b5758f9b0084a9ec0a1f4a86eef6,
+      type: 3}
+  - PanelId: MessagePanel
+    PanelPrefab: {fileID: 3260018691505724301, guid: 3e3a5a902660986429c414dd4eb6b2a8,
+      type: 3}
+  - PanelId: MissionTimerPanel
+    PanelPrefab: {fileID: 3260018691505724301, guid: 62c055edd52d10d419109dc0a3c75916,
+      type: 3}
+  - PanelId: LobbyStartPanel
+    PanelPrefab: {fileID: 3260018691505724301, guid: 0896f144e2ed9c743a356b59cf82b396,
+      type: 3}
+  - PanelId: MissionPanel
+    PanelPrefab: {fileID: 3260018691505724301, guid: b2a7df89203c85e42acbcab7169353ec,
+      type: 3}
+  - PanelId: MinimapPanel
+    PanelPrefab: {fileID: 3260018691505724301, guid: e54dd6d3fff2b944f85c1356e2b32ae7,
+      type: 3}
+  - PanelId: MissionCompletePanel
+    PanelPrefab: {fileID: 3260018691505724301, guid: cede36b4c56a48b4cacd5254cce2a046,
+      type: 3}
+  - PanelId: LosePanel
+    PanelPrefab: {fileID: 3260018691505724301, guid: 26e04b6d295ebfb4c86f3013451dfd19,
+      type: 3}
+  - PanelId: BrifPanel
+    PanelPrefab: {fileID: 3260018691505724301, guid: 779d4beb2022efd4e95286ac309952ef,
+      type: 3}
+  - PanelId: AndroidTutorialPanel
+    PanelPrefab: {fileID: 3260018691505724301, guid: c4b5df79fc8bd714e8baaa65cd84accd,
+      type: 3}
+  - PanelId: WinTutorialPanel
+    PanelPrefab: {fileID: 3260018691505724301, guid: 300c0bd4efeb1fc4d905c7d01bdb7702,
+      type: 3}
+  - PanelId: MoneyGaragePanel
+    PanelPrefab: {fileID: 3260018691505724301, guid: b0da6cb56a7272440b2edf06ba270814,
+      type: 3}
+  - PanelId: MissionCompletePopupPanel
+    PanelPrefab: {fileID: 4348978154896816942, guid: e868d10911174a348bec58bac7cd8236,
+      type: 3}
+  - PanelId: TutorialInGameAndroidPanel
+    PanelPrefab: {fileID: 2606078995005872428, guid: 720df7c3865a2ad40a4b7e18ec9d5ac8,
+      type: 3}
+  - PanelId: TutorialInGameDesktopPanel
+    PanelPrefab: {fileID: 2606078995005872428, guid: b269961558852dc4680fa941c031de7d,
+      type: 3}
+  - PanelId: TutorialShopPanel
+    PanelPrefab: {fileID: 2606078995005872428, guid: 4ae4b795dcd4a57449d4b4788d5e8667,
+      type: 3}
+  - PanelId: GarageMenuPanel
+    PanelPrefab: {fileID: 2606078995005872428, guid: 60daeba3f122b014dad9234085f8169a,
+      type: 3}
+  - PanelId: SettingsGaragePanel
+    PanelPrefab: {fileID: 3049199706889698082, guid: d25030d27c5867a4680c06308c5b7141,
+      type: 3}
+  - PanelId: TutorialLevelAndroidPanel
+    PanelPrefab: {fileID: 2606078995005872428, guid: 908ba9a29c83b484989a686f558f886a,
+      type: 3}

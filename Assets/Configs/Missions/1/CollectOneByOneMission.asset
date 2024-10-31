@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68e88e98579c1df45b371620787653a2, type: 3}
+  m_Name: CollectOneByOneMission
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: 1081708567
+  <MissionDescription>k__BackingField: "\u0441\u043E\u0431\u0435\u0440\u0438 \u0432\u0441\u0435
+    \u0447\u0435\u043C\u043E\u0434\u0430\u043D\u044B"
+  <MoneyReward>k__BackingField: 100
+  <SaveMissionProgress>k__BackingField: 0
+  <MissionOnTime>k__BackingField: 0
+  <TimeOnMission>k__BackingField: 0
+  <CollectPrefab>k__BackingField: {fileID: 220400441857050344, guid: 7965acbe0a7f83a48a99ee017b186387,
+    type: 3}
+  <CollectPoints>k__BackingField:
+  - <InterestPointId>k__BackingField: Hotel
+    <PointPosition>k__BackingField: {x: 0, y: 0, z: 0}
+  - <InterestPointId>k__BackingField: Hospital entrance
+    <PointPosition>k__BackingField: {x: 0, y: 0, z: 0}
+  - <InterestPointId>k__BackingField: Hospital backyard
+    <PointPosition>k__BackingField: {x: 0, y: 0, z: 0}
+  - <InterestPointId>k__BackingField: Camp of hazard
+    <PointPosition>k__BackingField: {x: 0, y: 0, z: 0}

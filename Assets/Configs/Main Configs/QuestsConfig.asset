@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e93d8cac4c8b38f40aa75347d0e4b8dc, type: 3}
+  m_Name: QuestsConfig
+  m_EditorClassIdentifier: 
+  _quests:
+  - {fileID: 11400000, guid: 7c6bf67e57313f64daea8c6b37971c10, type: 2}
+  - {fileID: 11400000, guid: b159e0c35f9424542a17b49f80c63d73, type: 2}
+  - {fileID: 11400000, guid: 641127b5495d2014ba08f8fd1e0ac342, type: 2}
+  _questPointsPrefabs:
+    StartPointPrefab: {fileID: 5800852495903225952, guid: 7b9c36a8e5c503640912e48f6e1a91c8,
+      type: 3}
+    CheckpointPrefab: {fileID: 5858375913769739888, guid: bfd803a34c68c58458281bd835d731fc,
+      type: 3}
+    FinishPointPrefab: {fileID: 2240229868337087927, guid: a973c930ff56d634a99d49fcfa5c9112,
+      type: 3}

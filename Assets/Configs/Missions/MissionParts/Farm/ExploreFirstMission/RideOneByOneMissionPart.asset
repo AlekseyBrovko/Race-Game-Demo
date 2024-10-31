@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb054f88877306e44a7b1f560b352a24, type: 3}
+  m_Name: RideOneByOneMissionPart
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: -1345771202
+  <LocalizationDescriptionTag>k__BackingField: exploreFarm
+  <MissionDescription>k__BackingField: "\u0415\u0437\u0436\u0430\u0439 \u043D\u0430
+    \u0440\u0430\u0437\u0432\u0435\u0434\u043A\u0443"
+  <SaveMissionProgress>k__BackingField: 0
+  <MissionOnTime>k__BackingField: 0
+  <TimeOnMission>k__BackingField: 0
+  <InterestPointsIds>k__BackingField:
+  - <InterestPointId>k__BackingField: 
+    <PointPosition>k__BackingField: {x: 565.46, y: 0.1117852, z: -64.96}
+  - <InterestPointId>k__BackingField: 
+    <PointPosition>k__BackingField: {x: 526.88, y: 0.1117852, z: -65.53743}
+  - <InterestPointId>k__BackingField: 
+    <PointPosition>k__BackingField: {x: 475.78, y: 0.1117852, z: -73.28}
+  - <InterestPointId>k__BackingField: 
+    <PointPosition>k__BackingField: {x: 442.4, y: 0, z: -79.38}
+  - <InterestPointId>k__BackingField: 
+    <PointPosition>k__BackingField: {x: 426.75, y: 0, z: -107.82}
+  - <InterestPointId>k__BackingField: 
+    <PointPosition>k__BackingField: {x: 425.86, y: 0, z: -273.96}
+  - <InterestPointId>k__BackingField: 
+    <PointPosition>k__BackingField: {x: 425.86, y: 0, z: -451.21}
+  - <InterestPointId>k__BackingField: 
+    <PointPosition>k__BackingField: {x: 440.42, y: 0, z: -290.2}
+  - <InterestPointId>k__BackingField: 
+    <PointPosition>k__BackingField: {x: 575.1928, y: 0, z: -49.94358}

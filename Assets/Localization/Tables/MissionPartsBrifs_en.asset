@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MissionPartsBrifs_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 70a40935ef231c84b9d4896a132a6138, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 916850858569728
+    m_Localized: Ride for explore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 934295707103232
+    m_Localized: "\u0421ollect supplies"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 937631307051008
+    m_Localized: Clear big ranch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 937816091308032
+    m_Localized: Clear the ranch across the street
+    m_Metadata:
+      m_Items: []
+  - m_Id: 938097508134912
+    m_Localized: Clear the neighboring ranch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 939241026400256
+    m_Localized: Clear the Forest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 949572654116864
+    m_Localized: Clear the motel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 951588780552192
+    m_Localized: Gather the survivors to the camp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 971853942009856
+    m_Localized: Clear the hospital
+    m_Metadata:
+      m_Items: []
+  - m_Id: 979842031726592
+    m_Localized: Clear Central Park
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981825518088192
+    m_Localized: Clear Suburban
+    m_Metadata:
+      m_Items: []
+  - m_Id: 983791749083136
+    m_Localized: Bring people to the church
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1289792217985024
+    m_Localized: Clear the world of zombies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1291264863285248
+    m_Localized: Clear small island
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1294141254053888
+    m_Localized: Clear central park
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

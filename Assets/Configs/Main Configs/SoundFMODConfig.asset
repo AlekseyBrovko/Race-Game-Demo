@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a22785b7303ba114b84a9d8ae89c7f10, type: 3}
+  m_Name: SoundFMODConfig
+  m_EditorClassIdentifier: 
+  <MasterBusTag>k__BackingField: bus:/
+  <MusicBusTag>k__BackingField: bus:/Music
+  <SoundsBusTag>k__BackingField: bus:/Sounds
+  <InPlayBusTag>k__BackingField: bus:/Sounds/InPlay
+  <ClickSound>k__BackingField:
+    Guid:
+      Data1: -2139394813
+      Data2: 1181099345
+      Data3: 723726507
+      Data4: -827238204
+    Path: event:/Click
+  <BuySound>k__BackingField:
+    Guid:
+      Data1: -853714960
+      Data2: 1335532201
+      Data3: 699972517
+      Data4: 819661816
+    Path: event:/BuyMoneySound
+  <MoneyIncreaseSound>k__BackingField:
+    Guid:
+      Data1: 566022648
+      Data2: 1194519609
+      Data3: 576973490
+      Data4: -293853616
+    Path: event:/MoneyIncreaseSound
+  <WarningSound>k__BackingField:
+    Guid:
+      Data1: -235656297
+      Data2: 1243086148
+      Data3: 446619522
+      Data4: 376104717
+    Path: event:/WarningSound
+  <MissionCompleteSound>k__BackingField:
+    Guid:
+      Data1: 686266906
+      Data2: 1111164038
+      Data3: 830514050
+      Data4: -201550319
+    Path: event:/MissionComplete
+  <ZombieDeadSound>k__BackingField:
+    Guid:
+      Data1: -1036168320
+      Data2: 1131950415
+      Data3: -1651483238
+      Data4: 288932141
+    Path: event:/ZombieDeath
+  <ZombieAttackSound>k__BackingField:
+    Guid:
+      Data1: 1256214326
+      Data2: 1185382572
+      Data3: 1162488984
+      Data4: -1136355922
+    Path: event:/ZombieAttack
+  <ZombieHitCarSound>k__BackingField:
+    Guid:
+      Data1: -1799754832
+      Data2: 1270156426
+      Data3: -783969349
+      Data4: -1071542215
+    Path: event:/ZombieHitCar
+  <OldCarMotorSound>k__BackingField:
+    Guid:
+      Data1: -915496134
+      Data2: 1179794414
+      Data3: -1332376660
+      Data4: -1904131488
+    Path: event:/OldDieselSound
+  <MuscleCarMotorSound>k__BackingField:
+    Guid:
+      Data1: 833032884
+      Data2: 1140419301
+      Data3: 865175698
+      Data4: -2074357765
+    Path: event:/MuscleCarMotorSound
+  <TruckMotorSound>k__BackingField:
+    Guid:
+      Data1: -1518071081
+      Data2: 1170083304
+      Data3: -462925637
+      Data4: 2108363200
+    Path: event:/TruckMotorSound
+  <WheelSkidSound>k__BackingField:
+    Guid:
+      Data1: -1574248389
+      Data2: 1111256493
+      Data3: -632649067
+      Data4: -502655990
+    Path: event:/WheelSkid
+  <CarHitZombieSound>k__BackingField:
+    Guid:
+      Data1: -468761877
+      Data2: 1116789973
+      Data3: -1898662519
+      Data4: 1579235980
+    Path: event:/CarHitZombie
+  <CarHitWoodSound>k__BackingField:
+    Guid:
+      Data1: -975375903
+      Data2: 1135149204
+      Data3: -390897502
+      Data4: 1056192498
+    Path: event:/CarHitWood
+  <CarHitMetalSound>k__BackingField:
+    Guid:
+      Data1: -138017887
+      Data2: 1243184238
+      Data3: -16587897
+      Data4: -251558236
+    Path: event:/CarHitMetal
+  <CarHitDefaultSound>k__BackingField:
+    Guid:
+      Data1: 1172432839
+      Data2: 1090290460
+      Data3: 713494462
+      Data4: 1690371599
+    Path: event:/CarHitDefault
+  <ExplosionSound>k__BackingField:
+    Guid:
+      Data1: -369914438
+      Data2: 1261205069
+      Data3: -1951580787
+      Data4: -269647315
+    Path: event:/Explosion
+  <PickupSound>k__BackingField:
+    Guid:
+      Data1: 1858857115
+      Data2: 1121477512
+      Data3: 55989164
+      Data4: -2082923161
+    Path: event:/Pickup
+  <MenuMusic>k__BackingField:
+    Guid:
+      Data1: 1124117836
+      Data2: 1291252802
+      Data3: -1349769850
+      Data4: -1345128629
+    Path: event:/MenuMusic

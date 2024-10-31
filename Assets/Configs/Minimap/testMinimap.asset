@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc463b6a56d633e4e9f6aac82ad72211, type: 3}
+  m_Name: testMinimap
+  m_EditorClassIdentifier: 
+  <SquareSide>k__BackingField: 150
+  <HorizontalSquareCount>k__BackingField: 4
+  <VerticalSquareCount>k__BackingField: 4
+  <HorizontalOffset>k__BackingField: -50
+  <VerticalOffset>k__BackingField: 0
+  <PartsOfMinimap>k__BackingField:
+  - {fileID: 2800000, guid: 428624340e49659428451a03549680c3, type: 3}
+  - {fileID: 2800000, guid: 250982b5ddbb45544a1d1672e267ebca, type: 3}
+  - {fileID: 2800000, guid: 3fb97f11edadc93498157632e0dcb03f, type: 3}
+  - {fileID: 2800000, guid: 61603db9786d192489ab6125bd5a26d6, type: 3}
+  - {fileID: 2800000, guid: dc98f42ff60de01499f6785e3b26518a, type: 3}
+  - {fileID: 2800000, guid: ee0437e3a356d4e4aa05c7f3854bf301, type: 3}
+  - {fileID: 2800000, guid: 61670c73268a43345b6a02a0ce897b52, type: 3}
+  - {fileID: 2800000, guid: 9fd99be380ce5be4093ed18a65a32b68, type: 3}
+  - {fileID: 2800000, guid: d6a339bd1d3582d46904df915a15f5b3, type: 3}
+  - {fileID: 2800000, guid: d78db4727b7031c43a939fb846042c8e, type: 3}
+  - {fileID: 2800000, guid: 6ced44f2543ea9f4892ec6cf12c6a2e4, type: 3}
+  - {fileID: 2800000, guid: b9b5c3c5d61526246875bea795488f0b, type: 3}
+  - {fileID: 2800000, guid: f1bda1929a29b93479f1b43c153ae52f, type: 3}
+  - {fileID: 2800000, guid: 7c0bf62bca0d1304fa45eaacf05828e7, type: 3}
+  - {fileID: 2800000, guid: b540f2ffe3c044048ba4428c525b0935, type: 3}
+  - {fileID: 2800000, guid: 2ff38b95e10ae3740a6886f9af1d89c3, type: 3}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd6b8069e84b3c40b20e8347014c982, type: 3}
+  m_Name: CleanFarms
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: -15434116
+  <Brif>k__BackingField:
+    <ShowBrif>k__BackingField: 1
+    <LocalizationTag>k__BackingField: cleanFarms
+    <MissionName>k__BackingField: "\u0411\u043E\u0440\u044C\u0431\u0430 \u0441 \u043F\u0430\u0440\u0430\u0437\u0438\u0442\u0430\u043C\u0438"
+    <BriefText>k__BackingField: "\u041E\u0447\u0438\u0441\u0442\u0438 \u0444\u0435\u0440\u043C\u044B
+      \u043E\u0442 \u0437\u043E\u043C\u0431\u0438"
+    <AvatarSprite>k__BackingField: {fileID: 0}
+    <BriefSprites>k__BackingField: []
+  <MissionParts>k__BackingField:
+  - {fileID: 11400000, guid: 3840de77728595b46852454c3994bca5, type: 2}
+  - {fileID: 11400000, guid: 3a80d683cd348be40a5e566b0af7093f, type: 2}
+  - {fileID: 11400000, guid: e9fda02a4b71acc45a84acbdeecdd0bf, type: 2}
+  <MoneyReward>k__BackingField: 500
+  <SpawnPointId>k__BackingField: Farm

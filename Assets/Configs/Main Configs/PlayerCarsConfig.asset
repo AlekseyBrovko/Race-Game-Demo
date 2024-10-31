@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a400a1be19acf644f9b4a6608353b14f, type: 3}
+  m_Name: PlayerCarsConfig
+  m_EditorClassIdentifier: 
+  DefaultCar: {fileID: 11400000, guid: 231533d860548614aa1c79bb2d711e26, type: 2}
+  TutorialCar: {fileID: 11400000, guid: bf2264a973d5baf408e3dfdf2951a875, type: 2}
+  Cars:
+  - {fileID: 11400000, guid: 231533d860548614aa1c79bb2d711e26, type: 2}
+  - {fileID: 11400000, guid: 86cebfa0be6d92646beaedfa70f1615b, type: 2}
+  - {fileID: 11400000, guid: 964d61b9c81f9d1448171c366c999947, type: 2}
+  - {fileID: 11400000, guid: 3d36c4f4b5757134baab73c8b566f6c8, type: 2}
+  - {fileID: 11400000, guid: fbc6a416250cd9f45af6c904a810a8f7, type: 2}
+  - {fileID: 11400000, guid: 638e4fcf2b3586d458d68b3945793048, type: 2}
+  - {fileID: 11400000, guid: b2c05f0e2d89db349833abd5cb71afa0, type: 2}
+  - {fileID: 11400000, guid: 2d005ff9f111dc34bb1434c6e216062a, type: 2}
+  - {fileID: 11400000, guid: 481f5500098d50141824ac352c2cbf42, type: 2}
+  - {fileID: 11400000, guid: b3da29252b6f9634abc48b87a84d8fe3, type: 2}
+  - {fileID: 11400000, guid: d7f34389b7ffbde4d830c42ea6a12bd9, type: 2}
+  - {fileID: 11400000, guid: bf2264a973d5baf408e3dfdf2951a875, type: 2}

@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: db40931e06d32034e8539b3c11b336c9, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 102922969088
+    m_Localized: Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 235936931840
+    m_Localized: Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 620000960512
+    m_Localized: Brake / Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 947626434560
+    m_Localized: Forward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1044095426560
+    m_Localized: Hand Brake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1333674369024
+    m_Localized: Minimap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1479690674176
+    m_Localized: Flip Car
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1852023234560
+    m_Localized: Fuel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1968721354752
+    m_Localized: Health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2031203901440
+    m_Localized: Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2135449133056
+    m_Localized: Money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2204936167424
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56600806391808
+    m_Localized: "W / \u2191"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56617927540736
+    m_Localized: "S /  \u2193"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56622394474496
+    m_Localized: "A / \u2190"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56829257547776
+    m_Localized: "D / \u2192"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56886094561280
+    m_Localized: R
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56910392164352
+    m_Localized: Space
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61818524762112
+    m_Localized: Control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81467421327360
+    m_Localized: Upgrade this indicator so that the car can gain more speed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81540800675840
+    m_Localized: Upgrade this indicator so that the car accelerates faster.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81599315410944
+    m_Localized: Upgrade this indicator to withstand more enemy attacks. At the maximum
+      level, the car gets armor.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81683335708672
+    m_Localized: Upgrade this indicator to drive longer.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

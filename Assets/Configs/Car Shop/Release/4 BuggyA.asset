@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3240f9c5a7f20d4c855679823bbd530, type: 3}
+  m_Name: 4 BuggyA
+  m_EditorClassIdentifier: 
+  Id: BuggyA
+  Name: Buggy
+  Price: 200
+  CarPrefab: {fileID: 2188806403175049463, guid: ba4f1be58dd9f974196c113a49004cc3,
+    type: 3}
+  MaxSpeedLevels:
+  - Value: 110
+    Price: 0
+  - Value: 120
+    Price: 100
+  - Value: 130
+    Price: 110
+  - Value: 140
+    Price: 120
+  - Value: 150
+    Price: 130
+  - Value: 160
+    Price: 140
+  HorcePowerLevels:
+  - Value: 250
+    Price: 0
+  - Value: 280
+    Price: 100
+  - Value: 310
+    Price: 110
+  - Value: 340
+    Price: 120
+  - Value: 370
+    Price: 130
+  - Value: 400
+    Price: 140
+  HpLevels:
+  - Value: 100
+    Price: 0
+  - Value: 110
+    Price: 100
+  - Value: 120
+    Price: 110
+  - Value: 130
+    Price: 120
+  - Value: 140
+    Price: 130
+  - Value: 150
+    Price: 140
+  FuelLevels:
+  - Value: 120
+    Price: 0
+  - Value: 140
+    Price: 100
+  - Value: 160
+    Price: 110
+  - Value: 180
+    Price: 120
+  - Value: 200
+    Price: 130
+  - Value: 220
+    Price: 140

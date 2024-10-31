@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea16f6bd2ff6cb4abc130a15824efd2, type: 3}
+  m_Name: KillByNameMission
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: 571999562
+  <MissionDescription>k__BackingField: "\u0414\u0430\u0432\u0438 \u0432\u0441\u0435\u0445
+    \u0437\u043E\u043C\u0431\u0430\u043A\u043E\u0432!"
+  <MoneyReward>k__BackingField: 100
+  <SaveMissionProgress>k__BackingField: 0
+  <MissionOnTime>k__BackingField: 1
+  <TimeOnMission>k__BackingField: 10
+  <EnemyIds>k__BackingField:
+  - ZombieBusinessmen
+  - ZombieAirportSecurity
+  - ZombieFootballPlayer
+  - ZombieShopkeeper
+  - ZombieSoldier
+  - ZombieStreetman
+  - ZombieTourist
+  - ZombieRangeBellhop
+  - ZombieRangeFirefighter
+  - ZombieRangePrisoner
+  - ZombieRangeAirportWorker
+  - ZombieRangeMechanic
+  - ZombieRangeRoadWorker
+  <EnemyAmount>k__BackingField: 5

@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2e89971f7d173347b9ebaa323facbc6, type: 3}
+  m_Name: EnemyConfig
+  m_EditorClassIdentifier: 
+  NpcDebugCanvas: {fileID: 3668537828331304365, guid: 53a9c0eda82728a4f91924d62c269275,
+    type: 3}
+  Prefabs:
+  - Id: ZombieBusinessmen
+    Prefab: {fileID: 7920981819176929840, guid: 92a19b6c0aeda53419d12a924747827a,
+      type: 3}
+  - Id: ZombieAirportSecurity
+    Prefab: {fileID: 6117408575325719208, guid: 901b2e2c6bcebc14bb37f7c0ce34b3b2,
+      type: 3}
+  - Id: ZombieFootballPlayer
+    Prefab: {fileID: 7527417892039781382, guid: dad86cf0927201742b1a84a40840db1c,
+      type: 3}
+  - Id: ZombieShopkeeper
+    Prefab: {fileID: 8119520945950517194, guid: 1846def9a85b5b847867688d2d334eea,
+      type: 3}
+  - Id: ZombieSoldier
+    Prefab: {fileID: 987200333277247813, guid: 9937b34ce702b314085fa3f6fbac3262, type: 3}
+  - Id: ZombieStreetman
+    Prefab: {fileID: 4224065812977579089, guid: 4ce1b88df53d83a4984e543519518594,
+      type: 3}
+  - Id: ZombieTourist
+    Prefab: {fileID: 4820268032411054199, guid: 0f4ddb135a2cb9b4dbe9e62f1a4b287e,
+      type: 3}
+  - Id: ZombieFarmer
+    Prefab: {fileID: 6133582211181844577, guid: 1172faab32ce55d468e39af858fdb8ed,
+      type: 3}
+  - Id: ZombieRangeFirefighter
+    Prefab: {fileID: 4525791546232080592, guid: 92be7e54c92b4b646a1e81e92cca164d,
+      type: 3}
+  - Id: ZombieRangePrisoner
+    Prefab: {fileID: 6493831366798965058, guid: 136299fecd0425845bd62a45594cc76a,
+      type: 3}
+  - Id: ZombieRangeAirportWorker
+    Prefab: {fileID: 5772571245002189198, guid: 6388602d7d9a17d4bad9db27a7038e3b,
+      type: 3}
+  - Id: ZombieRangeRoadWorker
+    Prefab: {fileID: 5490514727122960540, guid: 78b213b13d850b548a935777798e45a2,
+      type: 3}
+  RagdollPrefabs:
+  - Id: ZombieBusinessmen
+    Prefab: {fileID: 5787407853539452924, guid: df12b3677785cef48af2b7a878cc49b1,
+      type: 3}
+  - Id: ZombieAirportSecurity
+    Prefab: {fileID: 3583372925899060196, guid: 4660b203af91fb949bcb13cbcf665ae3,
+      type: 3}
+  - Id: ZombieAirportWorker
+    Prefab: {fileID: 515609699542356645, guid: df9cb61b23ae6f144847e16ee86f5019, type: 3}
+  - Id: ZombieBellhop
+    Prefab: {fileID: 388781381688647461, guid: 34b2e295b2a3d204fb9fe8ba7579b1c1, type: 3}
+  - Id: ZombieFirefighter
+    Prefab: {fileID: 2048189723350673237, guid: 6df3355d751bc9645bdc9b0385a6fab7,
+      type: 3}
+  - Id: ZombieFootballPlayer
+    Prefab: {fileID: 5554607300399547090, guid: 6e3078a363200c34680129c8121d7cfd,
+      type: 3}
+  - Id: ZombieMechanic
+    Prefab: {fileID: 624050413109741367, guid: bb8076ad62984db46beaabcbf40fc87c, type: 3}
+  - Id: ZombiePrisoner
+    Prefab: {fileID: 6611662161062906244, guid: c5bc2fa2c6510ef40b00c782e0637ab6,
+      type: 3}
+  - Id: ZombieRoadWorker
+    Prefab: {fileID: 2722866042354412035, guid: 369d26c053aeeac4087b2422b9e0b8a1,
+      type: 3}
+  - Id: ZombieShopkeeper
+    Prefab: {fileID: 3750857136914291198, guid: c1ca72e9cb5dfd6408c111b666c90028,
+      type: 3}
+  - Id: ZombieSoldier
+    Prefab: {fileID: 6032928425490549615, guid: 17e3fd11fbc55d84ab15708581f0287d,
+      type: 3}
+  - Id: ZombieStreetman
+    Prefab: {fileID: 8504439719273652285, guid: a80306776db220d4f92862f179247a78,
+      type: 3}
+  - Id: ZombieTourist
+    Prefab: {fileID: 1022124966839324731, guid: 44b50b2bc01ed704d968a89e9a316435,
+      type: 3}
+  - Id: ZombieFarmer
+    Prefab: {fileID: 800089250158592785, guid: 063364fdcbdda324889a6b23bcda78c7, type: 3}
+  ThrowingObjectsPrefabs:
+  - Id: Crate
+    Prefab: {fileID: 3027154062801811039, guid: 1796dc4aafc0def48998af66b9a335e1,
+      type: 3}
+  - Id: ExplosionBarrel
+    Prefab: {fileID: 6897919462343945568, guid: 2b35d45775ff6a444ba54c84f72ddd11,
+      type: 3}
