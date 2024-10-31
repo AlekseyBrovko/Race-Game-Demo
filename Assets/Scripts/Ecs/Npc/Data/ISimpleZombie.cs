@@ -1,0 +1,4 @@
+﻿public interface ISimpleZombie : IEnemy
+{
+
+}

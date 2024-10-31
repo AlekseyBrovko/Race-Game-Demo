@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3761481298126216864
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1374078955149272704, guid: c66acd6640afd264fafad3b04bf0d61c,
+        type: 3}
+      propertyPath: m_Name
+      value: ZombieTourist
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374078955149316546, guid: c66acd6640afd264fafad3b04bf0d61c,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1647045965618091918, guid: c66acd6640afd264fafad3b04bf0d61c,
+        type: 3}
+      propertyPath: _enemyId
+      value: ZombieTourist
+      objectReference: {fileID: 0}
+    - target: {fileID: 1647045965618091918, guid: c66acd6640afd264fafad3b04bf0d61c,
+        type: 3}
+      propertyPath: _ragdollId
+      value: ZombieTourist
+      objectReference: {fileID: 0}
+    - target: {fileID: 8421140628472310646, guid: c66acd6640afd264fafad3b04bf0d61c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -242.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 8421140628472310646, guid: c66acd6640afd264fafad3b04bf0d61c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0000019073486
+      objectReference: {fileID: 0}
+    - target: {fileID: 8421140628472310646, guid: c66acd6640afd264fafad3b04bf0d61c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -50.88
+      objectReference: {fileID: 0}
+    - target: {fileID: 8421140628472310646, guid: c66acd6640afd264fafad3b04bf0d61c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8421140628472310646, guid: c66acd6640afd264fafad3b04bf0d61c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8421140628472310646, guid: c66acd6640afd264fafad3b04bf0d61c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8421140628472310646, guid: c66acd6640afd264fafad3b04bf0d61c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8421140628472310646, guid: c66acd6640afd264fafad3b04bf0d61c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8421140628472310646, guid: c66acd6640afd264fafad3b04bf0d61c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8421140628472310646, guid: c66acd6640afd264fafad3b04bf0d61c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8563171874163306199, guid: c66acd6640afd264fafad3b04bf0d61c,
+        type: 3}
+      propertyPath: m_Name
+      value: ZombieTourist
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 1374078955149270928, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149109946, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149327610, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149283540, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149105180, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149112330, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149310228, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149326902, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149326806, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149120286, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149315348, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149270118, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149285318, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149324386, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149286432, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149318754, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149278858, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149110018, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149283418, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149313454, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149289196, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149287162, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149122854, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149121974, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149129860, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149287594, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    - {fileID: 1374078955149108262, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c66acd6640afd264fafad3b04bf0d61c, type: 3}

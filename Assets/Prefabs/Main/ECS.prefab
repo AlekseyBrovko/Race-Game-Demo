@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2275122452126419506
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8334016079327818055}
+  - component: {fileID: 8214418227066957452}
+  m_Layer: 0
+  m_Name: ECS
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8334016079327818055
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2275122452126419506}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8214418227066957452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2275122452126419506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f85a657d2252b14a922f20dde4a1d96, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _sceneType: 0
+  _getCarFromSceneScene: 1
+  _showNpcCanvases: 0
+  _showFpsCanvas: 1
+  _enableDeath: 0
+  _enableLowFuel: 0
+  _settingsConfig: {fileID: 11400000, guid: 34d40686682bf15418b49472008ee3d7, type: 2}
+  _uiConfig: {fileID: 11400000, guid: 7100c1d4eabb4fc4497ff6e2bb0f3388, type: 2}
+  _playerConfig: {fileID: 11400000, guid: f06d07d28a183c4489e606253968724a, type: 2}
+  _uiPanelConfig: {fileID: 11400000, guid: e52b4666cc0b8114c96b53664905f1b4, type: 2}
+  _playerCarsConfig: {fileID: 11400000, guid: 56bc171f8f343444ba4f4818db9310ac, type: 2}
+  _enemyConfig: {fileID: 11400000, guid: bb42c849a6768ce47a883249d5d8bd4a, type: 2}
+  _questsConfig: {fileID: 11400000, guid: 951b82d7bfe0e794fb73d81826032244, type: 2}
+  _particlesConfig: {fileID: 11400000, guid: 2cdd7ac5a493ec94c8b41f4f3605a8c1, type: 2}
+  _pickupsConfig: {fileID: 11400000, guid: 841bbf2faacdbef4487cfdbfbff9febc, type: 2}
+  _missionsConfig: {fileID: 11400000, guid: ba3c407d0818c87448ba4448d8ab8366, type: 2}
+  _soundFMODConfig: {fileID: 11400000, guid: 0a2e71980e23b964881972cd09830129, type: 2}
+  _minimapData: {fileID: 0}
+  _sceneIniter: {fileID: 0}
+  _sessionContextHolderPrefab: {fileID: 3154661237225605817, guid: 21e03428118eeaa408ae026ad1da1391,
+    type: 3}
+  _localizationConfig: {fileID: 11400000, guid: cccf1938795e97544833e0feb1dcae5a,
+    type: 2}
